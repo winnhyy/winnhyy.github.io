@@ -1,0 +1,60 @@
+HTTrack3.50-2 launched on Mon, 14 Sep 2026 15:40:46 at https://hydroclimatol.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://hydroclimatol.com/ -O1 "C:\Users\korea\Desktop\hydroclimatol" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/?p=19
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/?p=19 to https://hydroclimatol.com/about-us/
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/?p=3350
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/?p=3350 to https://hydroclimatol.com/leading-investigator/
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/?p=3352
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/?p=3352 to https://hydroclimatol.com/members/
+15:41:44	Error: 	"Not Found" (404) at link https://hydroclimatol.com/members/charlsonlee2@gmail.com (from https://hydroclimatol.com/members/)
+15:41:44	Error: 	"Not Found" (404) at link https://hydroclimatol.com/members/siohy11@junu.ac.kr (from https://hydroclimatol.com/members/)
+15:41:44	Error: 	"Not Found" (404) at link https://hydroclimatol.com/members/rldustjr1@jbnu.ac.kr (from https://hydroclimatol.com/members/)
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/?p=3353
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/?p=3353 to https://hydroclimatol.com/publications/
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/?p=3354
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/?p=3354 to https://hydroclimatol.com/peer-reviewed-journal-articles/
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/?p=3355
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/?p=3355 to https://hydroclimatol.com/book-chapters/
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/?p=3356
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/?p=3356 to https://hydroclimatol.com/technical-reports/
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/?p=3357
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/?p=3357 to https://hydroclimatol.com/conference-presentations-selected/
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/?p=3358
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/?p=3358 to https://hydroclimatol.com/projects/
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/?p=3359
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/?p=3359 to https://hydroclimatol.com/notice/
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/사진-6/
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/사진-6/ to https://hydroclimatol.com/notice/%ec%82%ac%ec%a7%84-6/
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/사진-5/
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/사진-5/ to https://hydroclimatol.com/notice/%ec%82%ac%ec%a7%84-5/
+15:41:44	Warning: 	Moved Permanently for https://hydroclimatol.com/사진-4/
+15:41:44	Warning: 	File has moved from https://hydroclimatol.com/사진-4/ to https://hydroclimatol.com/notice/%ec%82%ac%ec%a7%84-4/
+15:41:47	Warning: 	can not create directory to C:/Users/korea/Desktop/hydroclimatol/hydroclimatol.com/notice/사진-6/~hts-tmp/index.html.z
+15:41:47	Warning: 	Moved Permanently for https://hydroclimatol.com/사진-3/
+15:41:47	Warning: 	File has moved from https://hydroclimatol.com/사진-3/ to https://hydroclimatol.com/notice/%ec%82%ac%ec%a7%84-3/
+15:41:47	Warning: 	can not create directory to C:/Users/korea/Desktop/hydroclimatol/hydroclimatol.com/notice/사진-5/~hts-tmp/index.html.z
+15:41:47	Warning: 	can not create directory to C:/Users/korea/Desktop/hydroclimatol/hydroclimatol.com/notice/사진-4/~hts-tmp/index.html.z
+15:41:47	Warning: 	Moved Permanently for https://hydroclimatol.com/사진-2/
+15:41:47	Warning: 	File has moved from https://hydroclimatol.com/사진-2/ to https://hydroclimatol.com/notice/%ec%82%ac%ec%a7%84-2/
+15:41:47	Warning: 	Moved Permanently for https://hydroclimatol.com/사진-1/
+15:41:47	Warning: 	File has moved from https://hydroclimatol.com/사진-1/ to https://hydroclimatol.com/notice/%ec%82%ac%ec%a7%84-1/
+15:41:50	Warning: 	can not create directory to C:/Users/korea/Desktop/hydroclimatol/hydroclimatol.com/notice/사진-3/~hts-tmp/index.html.z
+15:41:50	Warning: 	can not create directory to C:/Users/korea/Desktop/hydroclimatol/hydroclimatol.com/notice/사진-1/~hts-tmp/index.html.z
+15:41:50	Warning: 	can not create directory to C:/Users/korea/Desktop/hydroclimatol/hydroclimatol.com/notice/사진-2/~hts-tmp/index.html.z
+15:41:51	Warning: 	Moved Permanently for https://hydroclimatol.com/?p=25
+15:41:51	Warning: 	File has moved from https://hydroclimatol.com/?p=25 to https://hydroclimatol.com/contact/
+15:41:51	Warning: 	File not parsed, looks like binary: https://hydroclimatol.com/notice/사진-6/
+15:41:51	Warning: 	File not parsed, looks like binary: https://hydroclimatol.com/notice/사진-5/
+15:41:51	Warning: 	File not parsed, looks like binary: https://hydroclimatol.com/notice/사진-4/
+15:41:51	Warning: 	File not parsed, looks like binary: https://hydroclimatol.com/notice/사진-3/
+15:41:51	Warning: 	File not parsed, looks like binary: https://hydroclimatol.com/notice/사진-2/
+15:41:51	Warning: 	File not parsed, looks like binary: https://hydroclimatol.com/notice/사진-1/
+
+HTTrack Website Copier/3.50-2 mirror complete in 1 minutes 5 seconds : 193 links scanned, 172 files written (16434326 bytes overall) [11554398 bytes received at 177759 bytes/sec], 7608360 bytes transferred using HTTP compression in 113 files, ratio 30%, 17.5 requests per connection
+(3 errors, 46 warnings, 0 messages)
